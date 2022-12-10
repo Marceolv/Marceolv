@@ -3,7 +3,10 @@
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas (ADS);
 - contato e-mail : oliveiramarcelasilva11@gmail.com
 - github oficial : @Mahholiveira
-
+<a href="https://github.com/marceoliv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceoliv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceoliv&layout=compact&langs_count=7&theme=neon"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="marce-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
